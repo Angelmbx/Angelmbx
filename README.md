@@ -1,7 +1,8 @@
 <div align="center">
 <h2 algin="center">Hi I'm Ángel 👋</h1>
 <p> 
-· 🌱  I’m currently learning Java, Kotlin, SQL, Python <br>
+· 🌱  Currently learning Java, Kotlin, SQL, Python <br>
+· 💡  I'm also interested in mobile app development and AI <br>
 · 📥  Feel free to e-mail me at mirandabl.angel@gmail.com!
 </p>
 </div>
