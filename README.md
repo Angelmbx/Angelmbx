@@ -1,7 +1,7 @@
 <div align="center">
 <h2 algin="center">Hi I'm Ángel 👋</h1>
 <p> 
-· 🌱  Currently learning Java, Kotlin, SQL, JavaScript <br>
+· 🌱  Currently learning Java, Kotlin, SQL, JavaScript, TypeScript, Spring Framework, Angular <br>
 · 💡  I'm also interested in mobile app development and AI <br>
 · 📥  Feel free to e-mail me at mirandabl.angel@gmail.com!
 </p>
